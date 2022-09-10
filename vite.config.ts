@@ -21,6 +21,7 @@ export default defineConfig({
       'class-transformer',
       'class-validator',
       'fastify-swagger',
+      'reflect-metadata',
     ],
   },
 });
